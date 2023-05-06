@@ -16,7 +16,9 @@ Baixar e instalar o Python [Download](https://www.python.org/ftp/python/3.10.9/p
 
 Instalar as dependências necessárias usando o comando:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ---
 ## Configuração 🔧
