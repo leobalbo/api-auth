@@ -1,7 +1,7 @@
 <h1 align="center">API de autenticação por HWID</h1>
 
 ## Sobre 📓
-API para autenticação utilizando HWID como sistema de tempo por HWID, utilizei um banco de dados para armazenar os valores abaixo tem uma imagem de como foi feito o banco de dados.
+API para autenticação utilizando HWID como sistema de tempo para cada HWID, utilizei banco de dados para armazenar os valores.
 
 Feito apenas para estudo não é seguro para usar em produção.
 
