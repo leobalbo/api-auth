@@ -10,14 +10,14 @@ Feito apenas para estudo não é seguro para usar em produção.
 ![image](https://i.imgur.com/tHuKVgM.png)
 
 ---
-## Instalação 
+## Instalação 💻
 
 Baixar e instalar o Python [Download](https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe)
 
 Instalar as dependências necessárias usando o comando:
 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 ---
-## Configuração
+## Configuração 🔧
 Mudar de acordo com seu banco de dados em settings.cfg 
